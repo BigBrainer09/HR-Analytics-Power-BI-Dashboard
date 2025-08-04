@@ -32,3 +32,5 @@ Included attributes such as:
 📅 Visual filters by job level, department, gender, and years at company
 📋 Tabbed dashboard layout: Home, Action, and Detail for guided insights
 🔍 All visuals powered by dynamic DAX logic and slicers for interactivity
+
+Preview : https://github.com/BigBrainer09/HR-Analytics-Power-BI-Dashboard/blob/main/page%201%20.jpg
