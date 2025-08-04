@@ -33,4 +33,4 @@ Included attributes such as:
 📋 Tabbed dashboard layout: Home, Action, and Detail for guided insights
 🔍 All visuals powered by dynamic DAX logic and slicers for interactivity
 
-Preview : https://github.com/BigBrainer09/HR-Analytics-Power-BI-Dashboard/blob/main/page%201%20.jpg
+Preview : [Dashboard Preview](https://github.com/BigBrainer09/HR-Analytics-Power-BI-Dashboard/blob/main/page%201%20.jpg)
